@@ -1,0 +1,4 @@
+COMO criar um pacote 
+    go mod init myapp
+
+    
