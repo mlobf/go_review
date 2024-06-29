@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//A funcao obrigatoria main nao pode receber parametros....
+// A funcao obrigatoria main nao pode receber parametros....
 func main() {
 	//var whatToSay string
 	//whatToSay = "Hello Word Go"
