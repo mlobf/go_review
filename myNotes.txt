@@ -2,3 +2,20 @@ COMO criar um pacote
     go mod init myapp
 
     
+
+# Qualificações básicas
+
+4+ anos de experiência comprovada em programação Python;
+2+ anos de experiência comprovada em programação Go;
+Experiência com APIs REST e principalmente com GraphQL;
+Experiência com ambiente de repositórios Github e desenvolvimento colaborativo;
+Experiência com banco de dados NoSQL AWS DynamoDb;
+Experiência com recursos de cloud AWS, como: Cognito, IoT Core, AppSync, Lambda functions, API Gateway, CloudFront, DynamoDB;
+Experiência com IaC (infraestrutura como código) para provisionamento de recursos com CloudFormation/YAML;
+Conhecimento sólido de arquitetura de micro-serviços.
+
+
+# Qualificações desejadas
+
+Familiaridade com ambiente de desenvolvimento Linux, utilizando IDE VS Code;
+Experiência com framework AWS SAM e plataforma AWS.
